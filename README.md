@@ -1,4 +1,4 @@
-# Beer-Shop-Backend (cloned Linkbit-Backend)
+# Typescript-aws-lambda-Quickstart
 
 ### Environment
 - node version : 10.15.3
